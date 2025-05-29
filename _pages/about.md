@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Welcome to my website!
 
 I am a Quantitative Analytics Senior at Freddie Mac. I am working on credit risk models for mortgage markets.
