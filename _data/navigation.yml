@@ -15,8 +15,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Work"
-    url: /work/    
+  #- title: "Work"
+  #  url: /work/    
 
   - title: "Teaching"
     url: /teach/    
