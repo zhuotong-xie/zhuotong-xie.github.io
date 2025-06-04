@@ -11,26 +11,16 @@ redirect_from:
 You can find my CV [here](https://drive.google.com/file/d/1-tiirqkAZKRZL7vX3DFRuJ_HWZ4MXdm4/view?usp=sharing).
 
 
+<br />
+<br />
 
+<br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
