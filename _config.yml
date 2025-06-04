@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhuotong (Julia) Xie"
+title                    : "Zhuotong Xie"
 title_separator          : "-"
-name                     : &name "Zhuotong (Julia) Xie"
+name                     : &name "Zhuotong Xie"
 description              : # &description "personal description"
 url                      : https://zhuotong-xie.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "zhuotong-xie/zhuotong-xie.github.io"
 author:
   # Biographic information
   avatar           : "mimi.jpg"
-  name             : "Zhuotong (Julia) Xie"
+  name             : "Zhuotong Xie"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Earth"
