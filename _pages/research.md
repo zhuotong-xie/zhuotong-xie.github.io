@@ -11,14 +11,14 @@ redirect_from:
 
 **Abstract:** How has the degree of educational and racial assortative mating changed in the U.S. in the past few decades? Are marriages more favored by people now compared to the past? I use a multi-dimensional matching model to study the change in marital preferences on education and race in the United States, with Census data in 1960 and 2020. The model relaxes the “Separability” assumption in Choo and Siow (2006) and assumes match-specific idiosyncratic marriage matching shocks. I find the degree of educational and racial assortative mating decreased and people favor marriages less. My counterfactual analysis shows that changes in marital preferences increased household income inequality.
 
-
+<br />
 
 ### Lemons in the marriage markets [[Draft](https://drive.google.com/file/d/1UictwFykOyk5YpZP9bfjco8NnyixrwJ2/view?usp=sharing)].
 (joint with Yemiao Ke and Steven Stern) 
 
 **Abstract:** We construct a nonstationary, equilibrium model of the marriage market in the presence of adverse selection. We show that an equilibrium exists where marriages exhibit negative duration dependence and stocks change over time to reduce the thickness and quality of the marriage market. We show that divorce provides a better signal to other singles than never having been married. Our nonstructural empirical results support our theoretical results.
 
-
+<br />
 
 ### Matching on Violence
 (joint with Mansi Sharma)
