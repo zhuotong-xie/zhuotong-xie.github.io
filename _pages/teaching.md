@@ -1,10 +1,10 @@
 ---
-permalink: /teaching/
+permalink: /teach/
 title: "Teaching"
 author_profile: true
 redirect_from: 
   - /md/
-  - /teaching.html
+  - /teach.html
 ---
 
 ## Instructor, Stony Brook University
