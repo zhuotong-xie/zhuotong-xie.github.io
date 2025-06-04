@@ -17,8 +17,8 @@ Semester:  2020 Fall,  2019 Fall.
 ### ECO 389: Corporate Finance (Undergraduate)
 Semester: 2024 Spring.
 
-\
 
+<br />
 
 ## Teaching Assistant, Stony Brook University
 ### ECO 322: Data Science and Machine Learning in Economics
