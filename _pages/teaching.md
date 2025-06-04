@@ -34,10 +34,10 @@ Semester: 2020 Spring.
 Semester: 2019 Spring.
 
 ### ECO 520: Mathematical Statistics, Graduate (Master and PhD class)
-Semester: Fall 2018.
+Semester: 2018 Fall.
 
 ### ECO108: Introduction to Economics, Undergraduate
-Semester: Spring 2018.
+Semester: 2018 Spring.
 
 
 
